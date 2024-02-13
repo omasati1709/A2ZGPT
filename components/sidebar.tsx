@@ -56,7 +56,6 @@ const routes = [
     color: "text-orange-700",
     href: "/video",
   },
-
   {
     label: "Settings",
     icon: Settings,
